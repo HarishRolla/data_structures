@@ -36,12 +36,4 @@ public class Queue_dataStructure {
         // 3. Us3ed in linked lists , priority queues, Breath first search
 
     }
-
-
-
-
-
-
-
-
 }
